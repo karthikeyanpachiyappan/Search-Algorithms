@@ -91,7 +91,8 @@ else:
 ```
 ## Sample Input and Output
 
-![output](Screenshot 2024-04-23 111738.png)
+![output](search.png)
+
 
 
 
